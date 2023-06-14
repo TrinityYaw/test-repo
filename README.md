@@ -3,3 +3,5 @@
 
 
 This is a Personal Tutorial about how GIT and GitHub works
+
+Gotta push it on GitHub
