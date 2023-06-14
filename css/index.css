@@ -1,0 +1,12 @@
+body{
+    font-family:  Tahoma, Geneva, Verdana, sans-serif;
+    padding:10px;
+    margin: 0 auto;
+    font-size:14px;
+}
+
+
+p{
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
